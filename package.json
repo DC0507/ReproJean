@@ -2,6 +2,7 @@
   "name": "testjean2",
   "version": "1.0.0",
   "description": "",
+  "main": "src/functions/*.js",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
@@ -19,5 +20,4 @@
   "devDependencies": {
     "azure-functions-core-tools": "^4.x"
   },
-  "main": "src/functions/*.js"
 }
